@@ -40,7 +40,7 @@ For the purposes of this Disclaimer:
 *   **Project** (referred to as either "the Project", "We", "Us" or "Our" in this Disclaimer) refers to Chitchatter.
 *   **Service** refers to the Website.
 *   **You** means the individual accessing the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
-*   **Website** refers to Chitchatter, accessible from [https://chitchatter.im](https://chitchatter.im)
+*   **Website** refers to Chitchatter, accessible from [https://drbaph.is-a.dev/chat](https://drbaph.is-a.dev/chat)
 
 ### Disclaimer
 
